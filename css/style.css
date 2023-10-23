@@ -1,0 +1,6 @@
+.obraz {
+    width: 400px;
+    height: 400px;
+    background-image: url(/img/kwadratowa\ ramka.jpg);
+    background-size: contain;
+}
